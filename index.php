@@ -4,7 +4,7 @@
 // create an array with data for title, and meta, for each page
 $pgdata = array();
 $pgdata['index'] = array(
- 'title'=>'Title',
+ 'title'=>'WebPage made by Php-Language',
  'description'=>'Here add the description for Home page',
  'keywords'=>'meta keywords, for, home page'
 );
