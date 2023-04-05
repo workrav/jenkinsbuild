@@ -4,7 +4,7 @@
 // create an array with data for title, and meta, for each page
 $pgdata = array();
 $pgdata['index'] = array(
- 'title'=>'WebPage made by Php-Language',
+ 'title'=>'This is running through Jenkins Automation',
  'description'=>'Here add the description for Home page',
  'keywords'=>'meta keywords, for, home page'
 );
@@ -49,13 +49,13 @@ header('Content-type: text/html; charset=utf-8');
  position:relative;
  width:99%;
  margin:0.5em auto;
- background:#eff74d;
+ background:#5dbbf5;
  }
  #menu {
  float:left;
  width:15em;
  margin:0 auto;
- background:#f8f9fe;
+ background:#5dbbf5;
  border:1px solid blue;
  text-align:left;
  }
