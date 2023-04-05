@@ -65,7 +65,7 @@ header('Content-type: text/html; charset=utf-8');
  }
  #article {
  margin:0 1em 0 16em;
- background:#efeffe;
+ background:#5dbbf5;
  border:1px solid #01da02;
  padding:0.2em 0.4em;
  }
