@@ -49,7 +49,7 @@ header('Content-type: text/html; charset=utf-8');
  position:relative;
  width:99%;
  margin:0.5em auto;
- background:#fdfefe;
+ background:#eff74d;
  }
  #menu {
  float:left;
