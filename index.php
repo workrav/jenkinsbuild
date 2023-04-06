@@ -4,7 +4,7 @@
 // create an array with data for title, and meta, for each page
 $pgdata = array();
 $pgdata['index'] = array(
- 'title'=>'This',
+ 'title'=>'This is done after webhook is added',
  'description'=>'Here add the description for Home page',
  'keywords'=>'meta keywords, for, home page'
 );
